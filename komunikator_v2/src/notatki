@@ -1,12 +1,3 @@
-String x = "abc";
-        x = x + "xyz";
-
-String x = "xyz";
-        for (int i = 0; i < 100; i++){
-            x = x + i;
-        }
-        System.out.println(x);
-
 ---------------------------CLASSES-----------------------------
 ServerSide classes:
 -Server
